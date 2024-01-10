@@ -1,0 +1,7 @@
+C:\Dotnet\DotnetDemo\DotnetDemo\bin\Debug\net6.0\publish\DotnetDemo.exe
+C:\Dotnet\DotnetDemo\DotnetDemo\bin\Debug\net6.0\publish\appsettings.Development.json
+C:\Dotnet\DotnetDemo\DotnetDemo\bin\Debug\net6.0\publish\appsettings.json
+C:\Dotnet\DotnetDemo\DotnetDemo\bin\Debug\net6.0\publish\DotnetDemo.dll
+C:\Dotnet\DotnetDemo\DotnetDemo\bin\Debug\net6.0\publish\DotnetDemo.deps.json
+C:\Dotnet\DotnetDemo\DotnetDemo\bin\Debug\net6.0\publish\DotnetDemo.runtimeconfig.json
+C:\Dotnet\DotnetDemo\DotnetDemo\bin\Debug\net6.0\publish\DotnetDemo.pdb
